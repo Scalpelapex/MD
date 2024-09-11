@@ -1,2 +1,2 @@
-# MD
-Collection of Mechanical Design Works
+# Collection of Mechanical Design Works
+
