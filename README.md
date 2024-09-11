@@ -12,7 +12,7 @@ This platform is used to simulate the movement of human kidneys in the body, inc
 
 ## - Mechanical Prototype -
 
-[![Kidney Phantom](https://s1.imagehub.cc/images/2024/09/11/fd0f410a3aa32eab9e1a4c33373878aa.jpg)](https://youtu.be/upSrEZpCRcE "Kidney Phantom")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/upSrEZpCRcE/0.jpg)](https://www.youtube.com/watch?v=upSrEZpCRcE)
 
 If you need help, please email:
 1374404262@qq.com
@@ -31,7 +31,7 @@ This project designs a modular reconfigurable multi-configuration biomimetic rob
 
 ## - Mechanical Prototype -
 
-![](https://youtu.be/33fWOx1gzGU "KModular reconfigurable robot")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/33fWOx1gzGU/0.jpg)](https://www.youtube.com/watch?v=33fWOx1gzGU)
 
 ## - Patent - 
 
